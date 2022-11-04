@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/login/static/css/main.76b9aba2.chunk.css",
+    "main.js": "/login/static/js/main.f3525de5.chunk.js",
+    "main.js.map": "/login/static/js/main.f3525de5.chunk.js.map",
+    "runtime-main.js": "/login/static/js/runtime-main.bbf5d97f.js",
+    "runtime-main.js.map": "/login/static/js/runtime-main.bbf5d97f.js.map",
+    "static/js/2.a3bfc2aa.chunk.js": "/login/static/js/2.a3bfc2aa.chunk.js",
+    "static/js/2.a3bfc2aa.chunk.js.map": "/login/static/js/2.a3bfc2aa.chunk.js.map",
+    "index.html": "/login/index.html",
+    "static/css/main.76b9aba2.chunk.css.map": "/login/static/css/main.76b9aba2.chunk.css.map",
+    "static/js/2.a3bfc2aa.chunk.js.LICENSE.txt": "/login/static/js/2.a3bfc2aa.chunk.js.LICENSE.txt",
+    "static/js/main.f3525de5.chunk.js.LICENSE.txt": "/login/static/js/main.f3525de5.chunk.js.LICENSE.txt",
+    "static/media/avatar1.1d9e1978.png": "/login/static/media/avatar1.1d9e1978.png",
+    "static/media/avatar2.b8132c3c.png": "/login/static/media/avatar2.b8132c3c.png",
+    "static/media/avatar3.4d26ce02.png": "/login/static/media/avatar3.4d26ce02.png",
+    "static/media/avatar4.2a4ba26c.png": "/login/static/media/avatar4.2a4ba26c.png",
+    "static/media/body-background.9e7d96f6.png": "/login/static/media/body-background.9e7d96f6.png",
+    "static/media/cardimgfree.5771cbbb.png": "/login/static/media/cardimgfree.5771cbbb.png",
+    "static/media/logo-spotify.d2a3d2d3.svg": "/login/static/media/logo-spotify.d2a3d2d3.svg",
+    "static/media/sidenav-card-background.00019e46.png": "/login/static/media/sidenav-card-background.00019e46.png",
+    "static/media/signInImage.127192f6.png": "/login/static/media/signInImage.127192f6.png",
+    "static/media/signUpImage.c40a27bb.png": "/login/static/media/signUpImage.c40a27bb.png",
+    "static/media/team-2.5e013d90.jpg": "/login/static/media/team-2.5e013d90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbf5d97f.js",
+    "static/js/2.a3bfc2aa.chunk.js",
+    "static/css/main.76b9aba2.chunk.css",
+    "static/js/main.f3525de5.chunk.js"
+  ]
+}
